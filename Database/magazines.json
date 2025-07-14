@@ -1,0 +1,22 @@
+[
+    {
+        "magID": 1,
+        "name": "ZE for Maagzine",
+        "issuerNo": 132
+    },
+    {
+        "magID": 2,
+        "name": "ZE for Maagzine 2",
+        "issuerNo": 653
+    }, 
+    {
+        "magID": 3,
+        "name": "ZE for Maagzine 3",
+        "issuerNo": 545
+    }, 
+    {
+        "magID": 4,
+        "name": "ZE for Maagzine 4",
+        "issuerNo": 231
+    }
+]
